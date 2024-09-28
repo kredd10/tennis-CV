@@ -1,2 +1,2 @@
-# tennis-CV
+# tennis-CV setup
 YOLO/ Pytorch 
